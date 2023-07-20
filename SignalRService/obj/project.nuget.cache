@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "avDZOS66eQUqCDSJ8CsUHhaSsSHL6Z2TBnmBjvsEvT2MtDyXdUCEHGMNC6Sm1Mbe69GvbsUdCH+9f8AEyOcvRg==",
+  "dgSpecHash": "594z4sx0pPXmvPTZIHqRwM6qEEn/3D2BA6P9Qoz5VzKVBYtkIpzi7YCo4h1ZcaVbhKmS7Vrpg5N+5HRoycA7Sw==",
   "success": true,
   "projectFilePath": "C:\\Users\\RoyKeen\\OneDrive\\เดสก์ท็อป\\tutorial\\SignalRService\\SignalRService\\SignalRService.csproj",
   "expectedPackageFiles": [
@@ -37,6 +37,7 @@
     "C:\\Users\\RoyKeen\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\RoyKeen\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\RoyKeen\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\RoyKeen\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
     "C:\\Users\\RoyKeen\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\RoyKeen\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\RoyKeen\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
